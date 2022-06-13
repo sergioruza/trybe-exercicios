@@ -1,4 +1,41 @@
 .nav {
     text-decoration: none;
     color: blue;
+    display: block;
+    margin-bottom: 3px;
+
     }
+
+    body {
+        background-color: #b6ad90;
+        display: inline-block;
+        
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 50px;
+    }
+
+     ul {
+         margin-top: 3px;
+
+    }
+
+    #pagina-inicial {
+        margin-bottom: 3px;
+        margin-top: 35px;
+        font-size: 30px;
+
+    }
+
+    img {
+       display: block;
+       margin: auto;
+    }
+
+    #fatos {
+        text-align: center;
+        font-size: 40px;
+    }
+    
