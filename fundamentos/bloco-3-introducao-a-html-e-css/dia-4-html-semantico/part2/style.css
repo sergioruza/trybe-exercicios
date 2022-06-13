@@ -3,12 +3,18 @@
     color: blue;
     display: block;
     margin-bottom: 3px;
-
     }
+
+    nav a:hover {
+        color: aqua;
+    }
+    
+    
 
     body {
         background-color: #b6ad90;
         display: inline-block;
+        max-width: 100%;
         
     }
 
@@ -39,3 +45,30 @@
         font-size: 40px;
     }
     
+    #colorinit {
+        margin-left: 0px;
+        margin-right: 0px;
+        background-color: #a5a58d;
+    }
+
+    section {
+        background-color: #a5a58d;
+    }
+
+    section h3 {
+        margin-top: 0px;
+    }
+
+    footer {
+        background-color: #b6ad90;
+        
+    }
+
+    #footmargin {
+        margin-top: 05px;
+    }
+
+   #inline h4, p{
+       display: inline-block;
+   }
+   
