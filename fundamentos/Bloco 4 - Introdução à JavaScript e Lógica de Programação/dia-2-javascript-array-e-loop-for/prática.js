@@ -1,4 +1,4 @@
-// let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
+let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
 
         // Questão 1
 //console.log(numbers);
@@ -23,14 +23,14 @@
 // }
 
 
-        // Questão 5
-// let highNumb = 0
-// for(let count = 0; count < numbers.length; count += 1) {
-//         if (numbers[count] > highNumb) {
-//                 highNumb = numbers[count]
-//         }
-// }
-// console.log(highNumb)
+        //Questão 5
+let highNumb = 0
+for(let count = 0; count < numbers.length; count += 1) {
+        if (numbers[count] > highNumb) {
+                highNumb = numbers[count]
+        }
+}
+console.log(highNumb)
 
 
 
@@ -59,15 +59,15 @@
 
 
 
-                //Questão 8
-let array = []
-let divisao;
-for(let indi = 1; indi <= 25; indi += 1) {
-        array.push(indi);
-       divisao = indi / 2
-       console.log(divisao);
+//                 //Questão 8
+// let array = []
+// let divisao;
+// for(let indi = 1; indi <= 25; indi += 1) {
+//         array.push(indi);
+//        divisao = indi / 2
+//        console.log(divisao);
        
-}
+// }
 
-console.log(array);
+// console.log(array);
 
